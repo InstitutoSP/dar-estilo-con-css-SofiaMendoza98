@@ -60,8 +60,8 @@ A continuación, se describen las propiedades CSS utilizadas en el archivo "styl
 - `padding`: Agrega un espacio de relleno alrededor del encabezado. Ejemplo: `20px` para 20 píxeles de relleno.
 
 ### `nav ul`
-
-- `list-style-type`: Define el estilo de la lista de elementos de navegación. Ejemplo: `none` para eliminar los marcadores de lista.
+li
+- `st-style-type`: Define el estilo de la lista de elementos de navegación. Ejemplo: `none` para eliminar los marcadores de lista.
 
 ### `nav li`
 
